@@ -1,0 +1,6 @@
+<root>
+	<gridItem title="Games" color="#11a662" />
+	<gridItem title="Music" color="#fed14e" />
+	<gridItem title="Images" color="#337bf1" />
+	<gridItem title="Other" color="#ffffff" />
+</root>
